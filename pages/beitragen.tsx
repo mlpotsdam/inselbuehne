@@ -17,7 +17,7 @@ export default function Contribute() {
         <Container centerContent textAlign="center">
           <Text mb="10">
             Auch ein kleiner Geldbeutel sorgt später für viele tolle und
-            kostenlose Konzerte. Nach Deinem Beitrag kannst Du dir auch eine
+            kostenlose Konzerte. Nach Deinem Beitrag kannst Du Dir auch eine
             unserer Belohnungen abholen.
           </Text>
           <Box
